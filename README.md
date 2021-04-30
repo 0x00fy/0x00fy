@@ -5,6 +5,6 @@
 - [https://malwr.cc](https://malwr.cc)
 - [https://xss.codes](https://xss.codes)
 
-#### 📓 My Blog :
+#### 📓 Blog :
 
 - [http://modebit0.info](http://modebit0.info)
